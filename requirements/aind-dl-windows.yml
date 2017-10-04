@@ -44,6 +44,7 @@ dependencies:
 - olefile=0.44=py35_0
 - openssl=1.0.2k=vc14_0
 - pandocfilters=1.4.1=py35_0
+- pandas=0.19.2=np112py35_1
 - path.py=10.1=py35_0
 - pickleshare=0.7.4=py35_0
 - pillow=4.0.0=py35_1
@@ -85,7 +86,7 @@ dependencies:
   - nb-anacondacloud==1.2.0
   - nb-conda==2.0.0
   - nb-conda-kernels==2.0.0
-  - opencv-python==3.1.0.0
+  - opencv-python==3.2.0.6
   - prompt-toolkit==1.0.13
   - protobuf==3.2.0
   - tensorflow==1.0.1
