@@ -30,7 +30,7 @@ dependencies:
 - libpng=1.6.27=vc14_0
 - libtiff=4.0.6=vc14_3
 - markupsafe=0.23=py35_2
-- matplotlib=2.0.0=np112py35_0
+- matplotlib=2.0.2=np112py35_0
 - mistune=0.7.4=py35_0
 - mkl=2017.0.1=0
 - nb_anacondacloud=1.2.0=py35_0
